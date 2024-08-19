@@ -16,7 +16,7 @@ public class ArrayComparator {
 
         return true; // Все элементы одинаковы
     }
-
+// запуск
     public static void main(String[] args) {
         Integer[] intArray1 = {1, 2, 3, 4, 5};
         Integer[] intArray2 = {1, 2, 3, 4, 5};

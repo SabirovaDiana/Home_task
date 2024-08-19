@@ -35,3 +35,5 @@ public class Pair_main<T, U> {
         System.out.println("Second value of Pair 2: " + pair2.getSecond());
     }
 }
+
+//

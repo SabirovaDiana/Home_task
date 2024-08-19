@@ -12,6 +12,6 @@ public static void main(String[] args) {
     System.out.println("Сумма: " + intSumResult);
     System.out.println("Результат деления: " + doubleDivideResult);
     System.out.println("Разность: " + intSubtractResult);
-    System.out.println("Произведение: " + doubleMultiplyResult);
+    System.out.println("Произведение: " + doubleMultiplyResult);//
 }
 }
